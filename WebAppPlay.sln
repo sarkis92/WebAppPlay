@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppPlay", "WebAppPlay\WebAppPlay.csproj", "{D84B5FE2-B175-4A48-87CF-55B3C5AD8ECE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppPlay.Tests", "WebAppPlay.Tests\WebAppPlay.Tests.csproj", "{EB29C9A5-D301-4E63-B69C-F552E908C759}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D84B5FE2-B175-4A48-87CF-55B3C5AD8ECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D84B5FE2-B175-4A48-87CF-55B3C5AD8ECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D84B5FE2-B175-4A48-87CF-55B3C5AD8ECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D84B5FE2-B175-4A48-87CF-55B3C5AD8ECE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB29C9A5-D301-4E63-B69C-F552E908C759}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB29C9A5-D301-4E63-B69C-F552E908C759}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB29C9A5-D301-4E63-B69C-F552E908C759}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB29C9A5-D301-4E63-B69C-F552E908C759}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1774B2C-F08C-48F5-914B-3AFD5C0EDFDD}
+	EndGlobalSection
+EndGlobal
